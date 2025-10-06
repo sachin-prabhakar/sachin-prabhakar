@@ -8,7 +8,7 @@ I’m a software engineer interested in AI/ML, Applied AI, AI Infra, SWE Backend
 - M.S. Computer Science — Santa Clara University (2024–2026)  
 - Previously Senior SWE @ BetterPlace | Senior SWE @ Navjoy | MTS @ MetricStream
 
-I’m open to SWE backend and AI Engineer roles starting Spring 2026
+I’m open to full-time AI/ML Engineer and SWE Backend roles starting Spring 2026
 
 ---
 
