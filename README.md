@@ -12,14 +12,8 @@ I’m an engineer with a strong interest in Artificial Intelligence and Machine 
 ## How to reach me
 
 - Email: sachinprabhakar1994@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/eng-sachin/  
-
-<!-- Optional header image or GIF -->
-<!--
-<p align="right">
-  <img src="assets/hero.gif" alt="Working at a desk illustration" width="420"/>
-</p>
--->
+- LinkedIn: https://www.linkedin.com/in/eng-sachin/
+---
 
 <!-- Languages -->
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
