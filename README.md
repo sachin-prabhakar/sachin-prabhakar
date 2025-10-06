@@ -21,8 +21,6 @@ I’m an engineer with a strong interest in Artificial Intelligence and Machine 
 </p>
 -->
 
----## Tech Stack that I am familiar with
-
 <!-- Languages -->
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -108,39 +106,12 @@ I’m an engineer with a strong interest in Artificial Intelligence and Machine 
 
 ---
 
-## More About Me
-
-- Machine Learning Research Assistant (SCU): ML/DL on multi-sensor datasets; accelerated preprocessing with CUDA/TensorRT; building a MediaPipe-based posture risk pipeline.  
-- AI Engineer: mentor-matching using LLMs and secure connectors; RAG with BM25 + SBERT + FAISS.  
-- SDE III (BetterPlace): event-driven microservices with Kafka and DLQ; Redis and MongoDB performance tuning; high-availability services.  
-- Built a RAG chatbot over product docs that reduced support tickets; hybrid retrieval with evaluation.  
-- Cut a social-skilling API from ~12s to under 200ms via caching, query tuning, and preprocessed pipelines.  
-- Previous roles at Navjoy and MetricStream: multi-tenant RBAC, OAuth2 APIs with rate limiting, and faster document APIs with caching.  
-
-
----
-
-## Featured Projects
-
-- **Human Pose Classifier** — Transfer learning with MobileNetV2; posture classification with strong accuracy metrics.  
-  Repo: https://github.com/sachin-prabhakar/human-pose-classifier
-
-- **Ticket Routing with LoRA-Tuned LLM** — Parameter-efficient fine-tuning (LoRA) with NVIDIA NeMo; scalable training/eval pipeline.  
-  Repo: https://github.com/sachin-prabhakar/Ticket-Routing-with-LoRA
-
-- **MindDrift AI** — Collaborative sci-fi story writer using GPT models with long-context memory.  
-  Repo: https://github.com/sachin-prabhakar/minddrift-ai
-
----
-
 ## GitHub Analytics
 
 <!-- Replace `sachin-prabhakar` with your GitHub username if needed -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachin-prabhakar&show_icons=true&hide_title=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-prabhakar&layout=compact)
 ![GitHub Streak](https://streak-stats.demolab.com?user=sachin-prabhakar)
-
-
 
 ---
 
