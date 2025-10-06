@@ -106,13 +106,4 @@ I’m an engineer with a strong interest in Artificial Intelligence and Machine 
 
 ---
 
-## GitHub Analytics
-
-<!-- Replace `sachin-prabhakar` with your GitHub username if needed -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachin-prabhakar&show_icons=true&hide_title=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-prabhakar&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com?user=sachin-prabhakar)
-
----
-
 **Stay Curious and Keep Learning**
