@@ -2,19 +2,17 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=sachin-prabhakar&label=Profile%20views)](https://github.com/sachin-prabhakar)
 
-I’m a software engineer focused on backend systems, distributed architectures, and applied AI/ML. 
+I’m a software engineer interested in AI/ML, Applied AI, AI Infra, SWE Backend and Distributed Systems.
+
 
 - M.S. Computer Science — Santa Clara University (2024–2026)  
-- Previously SDE III @ BetterPlace | Senior SWE @ Navjoy | MTS @ MetricStream
+- Previously Senior SWE @ BetterPlace | Senior SWE @ Navjoy | MTS @ MetricStream
 
-**Links:**  
-[LinkedIn](https://www.linkedin.com/in/eng-sachin/) • [GitHub](https://github.com/sachin-prabhakar) • [Email](mailto:sachinprabhakar1994@gmail.com) 
+- I’m open to SWE backend and AI Engineer roles starting Spring 2026
+
+**Links:**  [LinkedIn](https://www.linkedin.com/in/eng-sachin/) • [Email](mailto:sachinprabhakar1994@gmail.com) 
 
 ---
-
-## About Me
-
-I design and ship large-scale reliable backend systems and applied AI. 
 
 <!-- Optional header image or GIF -->
 <!--
@@ -29,7 +27,6 @@ I design and ship large-scale reliable backend systems and applied AI.
 
 <!-- Languages -->
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -90,7 +87,6 @@ I design and ship large-scale reliable backend systems and applied AI.
 - Cut a social-skilling API from ~12 s to under 200 ms via caching, query tuning, and preprocessed pipelines.  
 - Previous roles at Navjoy and MetricStream: multi-tenant RBAC, OAuth2 APIs with rate limiting, and faster document APIs with caching.  
 
-I’m open to SWE backend and AI Engineer roles.
 
 ---
 
