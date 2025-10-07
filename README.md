@@ -13,7 +13,7 @@ Open to full-time AI/ML Engineer and SWE(Backend) roles starting in Spring 2026.
 
 ## How to reach me
 
-- Email: sachinprabhakar1994@gmail.com  
+- Email: snln@scu.edu
 - LinkedIn: https://www.linkedin.com/in/eng-sachin/
 ---
 
