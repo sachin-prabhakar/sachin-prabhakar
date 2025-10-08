@@ -2,7 +2,7 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=sachin-prabhakar&label=Profile%20views)](https://github.com/sachin-prabhakar)
 
-Experienced Engineer with a strong interest in AI/ML, Infra, Operating Systems, Distributed Systems, and SWE(Backend). 
+Experienced Engineer with a strong interest in AI/ML, Infra, SWE(Backend), Operating Systems and Distributed Systems. 
 
 - M.S. Computer Science — Santa Clara University (2024–2026)  
 - Previously Senior SWE @ BetterPlace | Senior SWE @ Navjoy | MTS @ MetricStream
