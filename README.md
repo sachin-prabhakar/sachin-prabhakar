@@ -1,6 +1,6 @@
 # Hi there, I'm Sachin Prabhakar
 
-Engineer with hands-on experience in AI/ML systems, distributed architectures, and backend engineering.
+Engineer with hands-on experience with AI/ML systems, distributed architectures, and backend engineering.  
 Open to AI Engineer and Software Engineer (Backend) roles.
 
 ---
