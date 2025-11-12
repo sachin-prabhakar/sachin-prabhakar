@@ -1,8 +1,7 @@
 # Hi there, I'm Sachin Prabhakar
 
 Engineer with experience across backend systems, distributed architecture, and AI/ML systems.  
-Interested in **AI Engineering** and **Backend Systems/Infrastructure**.  
-Open to **AI Engineer / Software Engineer(Backend) roles.
+Interested in **AI Engineering** and **Backend Systems/Infrastructure** and Open to **AI Engineer / Software Engineer(Backend)** roles.
 
 ---
 
