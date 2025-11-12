@@ -62,8 +62,3 @@ Interested in **AI Engineering** and **Backend Systems/Infrastructure** and Open
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![TorchServe](https://img.shields.io/badge/TorchServe-EE4C2C?logo=pytorch&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white)
-
----
-
-### 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/eng-sachin/) • [GitHub](https://github.com/sachin-prabhakar)
